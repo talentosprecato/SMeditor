@@ -1,0 +1,5 @@
+{
+  "name": "AI CV Enhancer",
+  "description": "An AI-powered tool to creatively and professionally edit your CV for a specific job and position. Upload your CV, specify your target role, and let AI craft a compelling resume for you, displayed in a two-column comparison.",
+  "requestFramePermissions": []
+}
